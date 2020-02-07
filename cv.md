@@ -7,7 +7,7 @@
 * Telegram: @barbedwire_by
 
 ## Summary:
-Senior software developer with more then 18 years experience. Strong in design and integration problems solving skills. An enthusiastic creative thinker and functional programming evangelist. I would like to get the structural and solid knowledge in the area of front-end, because I have a lot of fundamental skills but I need to make them systematic.
+Senior software developer with more then 18 years experience. Strong in design and integration problems solving skills. An enthusiastic creative thinker and functional programming evangelist. I would like to get the structural and solid knowledge in the area of front-end, because I have a lot of problems to solve but do not have enough systematic skills.
 
 ## Skills:
 
