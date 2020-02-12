@@ -1,0 +1,91 @@
+html {
+	font-family: 'Myriad Pro', Calibri, Helvetica, Arial, sans-serif;
+}
+
+body {
+	margin: 0;
+	line-height: 24px;
+	color: #373737;
+	background-color: rgb(240, 240, 240);
+}
+
+h1, h2, h4 {
+	font-family: 'Lucida Grande', 'Calibri', Helvetica, Arial, sans-serif;
+} 
+
+h1 {
+	font-size: 36px;
+}
+
+.info-block h4 {
+	margin-bottom: 0;	
+}
+
+ul {
+	margin-bottom: 15px;
+	padding-left: 20px;
+	list-style: disc;
+}
+
+li {
+	font-size: 16px;
+	font-stretch: 100%;
+	line-height: 24px;
+	color: #373737;
+}
+
+a {
+	color: #0366d6;
+}
+
+.wide-stripe {
+	width: 100%;
+	padding: 25px 10px 25px 10px;
+	background-color:#4d0026;
+	color: white;
+}
+
+.wide-stripe a {
+	color: white;	
+}
+
+.main-block {
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 1240px;
+}
+
+.info-block {
+	margin-left: 8px;
+	padding-bottom: 10px;
+}
+
+.info-block h2 {
+	padding-bottom: 5px;	
+	font-size: 24px;
+	border-bottom: 1px solid lightgray;
+}
+
+.info-block.first-block {
+	margin-top: 75px;
+}
+
+.info-block.first-block h2:first-child {
+	font-size: 36px;
+}
+
+section.info-block p ul {
+	margin-top: 2px;
+}
+
+.code-block {
+	display: block;
+	padding: 10px;
+	color: #222;
+	font-size: 14px;
+	background-color: #fff;
+}
+
+.exp-list {
+	margin-top: 2px;
+}
